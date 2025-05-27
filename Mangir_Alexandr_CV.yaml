@@ -1,0 +1,266 @@
+cv:
+  name: Alexandr Mangir
+  location: Chisinau, Moldova
+  email: sasha982025@gmail.com
+  phone: +373-790-574-89
+  photo: ./profile_picture.jpg
+  website:
+  social_networks:
+    - network: LinkedIn
+      username: alexmag
+    - network: GitHub
+      username: Sasha95
+  sections:
+    professional_summary:
+      - Senior Frontend & Mobile Developer with 8+ years of experience building scalable web applications and mobile apps using React, Nextjs and React Native. Specialized in creating high-performance platforms for enterprise solutions with extensive experience in micro-frontend architectures using Module Federation and Single-SPA.
+    experience:
+      - company: Otherweb
+        position: Lead Front-end/Mobile Developer
+        location: Chisinau, Moldova
+        start_date: 2023-07
+        end_date: 2025-06
+        highlights:
+        - Developed comprehensive UI kit and design system for company-wide projects
+        - Developed news aggregation platform with advanced content management features
+        - Created automated blogging tools with multiple CMS integrations
+        - Developed AI-powered editorial workflow platform for journalists
+        - Developed mobile application for news consumption with offline capabilities
+      - company: Tetracode
+        position: Lead Front-end Developer
+        location: Freelance
+        date: 
+        start_date: 2023-01
+        end_date: 2023-07
+        highlights:
+          - Developed load board aggregator with real-time notifications
+          - Developed pet insurance platform with micro-frontend architecture
+          - Developed AI-powered educational platform for children with offline capabilities
+      - company: Wisent Group
+        position: Lead Front-end Developer
+        start_date: 2020-12
+        end_date: 2023-07
+        location: Chisinau, Moldova
+        highlights:
+          - Developed comprehensive LMS and marketing automation platform with visual funnel builder
+      - company: DexTechnology
+        position: Middle Front-end Developer
+        location: Tiraspol, Moldova
+        date: 
+        start_date: 2019-04
+        end_date: 2020-12
+        highlights:
+          - Developed tour operator platform with different difficulty levels
+          - Developed admin panel for equipment accounting (Nokia, Beeline)
+          - Developed brand clothing store mobile app
+          - Developed scooter rental mobile app
+      - company: iHelp
+        date: 
+        start_date: 2017-12
+        end_date: 2019-04
+        position: Front-end Developer
+        location: Tiraspol, Moldova
+    projects:
+      - name: '[Autoblogger](https://autoblogger.otherweb.com/)'
+        summary: 'Developed automated blogging tool with integrations to WordPress API, Webflow, Wix, Zapier and other CMS platforms.\n\n*Technologies: Next.js, TypeScript, Plate.js, React Hook Form, Zod, Clerk*'
+      - name: '[PressHub](https://app.presshub.ai/)'
+        summary: 'Created AI-powered editorial workflow platform.\n\n*Technologies: React, TypeScript, Plate.js, react-query, CSS Modules, Clerk*'
+      - name: '[Otherweb](https://otherweb.com)'
+        summary: 'Developed high-quality news platform without noise, junk, or clickbait. with Next.js, TypeScript, and SSR optimization.\n\n*Technologies: Next.js, TypeScript, CSS Modules, React Hook Form, Zod, react-query, next-auth*'
+      - name: 'Otherweb Mobile'
+        summary: 'Built React Native mobile app [IOS application](https://apps.apple.com/us/app/otherweb-junk-free-news/id6443798894) and [Android application](https://play.google.com/store/apps/details?id=com.otherweb&hl=en) with Redux Toolkit and efficient caching.\n\n*Technologies: React Native, TypeScript, Redux Toolkit, Wix React Native Navigation, react-hook-form, Zod*'
+      - name: 'Kidzify'
+        summary: 'AI-based platform revolutionizing how children learn soft skills by making them the heroes of their educational cartoon episodes.\n\n*Technologies: React, TypeScript, Three.js, Redux*'
+      - name: 'Dispatchly'
+        summary: 'Developed load board aggregator with real-time notifications. \n\n*Technologies: React, TypeScript, Redux, react-router-dom, socket.io*'
+      - name: '[SPOKK](https://spokk.ua/)'
+        summary: 'Developed pet insurance platform using micro-frontend architecture.\n\n*Technologies: React, TypeScript, react-query, react-hook-form, CSS Modules, Module Federation, react-router-dom*'
+      - name: '[Everact](https://app.everact.io/)'
+        summary: 'Developed comprehensive LMS and marketing automation platform with visual funnel builder.\n\n*Technologies: React, Redux, redux-thunk, TypeScript, typescript-fsa, Module Federation, jsPlumb, react-hook-form, SCSS, react-router-dom*'
+      - name: 'XENA'
+        summary: 'Developed multiple landing pages and corporate sites. \n\n*Technologies: React, Redux, TypeScript, typescript-fsa, redux-thunk*'
+      - name: '[Company Website](https://dextechnology.com/)'
+        summary: 'Developed company website. \n\n*Technologies: React, Redux, TypeScript*'
+      - name: 'Rumb'
+        summary: 'Tour operator platform with different difficulty levels. \n\n*Technologies: React, React Navigation, Redux, TypeScript, typescript-fsa, redux-thunk*'
+      - name: 'Samocat Sharing'
+        summary: 'Developed scooter rental mobile app. \n\n*Technologies: React Native, React Navigation, Redux, redux-thunk*'
+      - name: 'Corridor'
+        summary: 'Built investment program platform based on arbitrage profits using currency corridors. \n\n*Technologies: React, Redux, redux-thunk, react-router-dom*'
+    skills:
+      - label: Web
+        details: React, Next.js, HTML5, CSS3, CSS Modules, SCSS, jsPlumb, Module Federation, Single-SPA, react-router-dom, Plate.js, next-auth, Clerk, Webpack, Vite, Storybook, socket.io
+      - label: Mobile
+        details: React Native, Wix React Native Navigation, React Navigation, Firebase
+      - label: Tools
+        details: RTK query, redux-thunk, Redux Toolkit, typescript-fsa, React Hook Form, Zod, i18next, stripe, docker
+      - label: UI Frameworks
+        details: Material-UI, Ant Design, Bootstrap, Radix, Shadcn, Ariakit, Tailwind, Styled Components
+    education:
+      - institution: Shevchenko Transnistria State University
+        area: Applied Mathematics and Computer Science
+        degree: MSc
+        date:
+        start_date: 2017-01
+        end_date: 2019-12
+        location: Tiraspol, Moldova
+        summary:
+        highlights:
+          - 'GPA: 5/5'
+          - 'Academic Scholarship Recipient'
+      - institution: Shevchenko Transnistria State University
+        area: Applied Mathematics
+        degree: BS
+        date:
+        start_date: 2013-09
+        end_date: 2017-06
+        location: Tiraspol, Moldova
+        summary:
+        highlights:
+          - 'GPA: 4.89/5'
+          - 'Academic Scholarship Recipient'
+design:
+  theme: classic
+  page:
+    size: us-letter
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_page_numbering: true
+    show_last_updated_date: true
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 79, 144)
+    connections: rgb(0, 79, 144)
+    section_titles: rgb(0, 79, 144)
+    links: rgb(0, 79, 144)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: Source Sans 3
+    font_size: 10pt
+    leading: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+  links:
+    underline: false
+    use_external_link_icon: true
+  header:
+    name_font_family: Source Sans 3
+    name_font_size: 30pt
+    name_bold: true
+    photo_width: 3cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.5cm
+    connections_font_family: Source Sans 3
+    separator_between_connections: ''
+    use_icons_for_connections: true
+    alignment: center
+  section_titles:
+    type: with-parial-line
+    font_family: Source Sans 3
+    font_size: 1.4em
+    bold: true
+    small_caps: false
+    line_thickness: 0.5pt
+    vertical_space_above: 0.5cm
+    vertical_space_below: 0.3cm
+  entries:
+    date_and_location_width: 4.15cm
+    left_and_right_margin: 0.2cm
+    horizontal_space_between_columns: 0.1cm
+    vertical_space_between_entries: 1.2em
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: •
+    top_margin: 0.25cm
+    left_margin: 0.4cm
+    vertical_space_between_highlights: 0.25cm
+    horizontal_space_between_bullet_and_highlight: 0.5em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: '**LABEL:** DETAILS'
+    education_entry:
+      main_column_first_row_template: '**INSTITUTION**, AREA'
+      degree_column_template: '**DEGREE**'
+      degree_column_width: 1cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column_first_row_template: '**NAME**'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column_first_row_template: '**COMPANY**, POSITION'
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: DATE
+locale:
+  language: en
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: –
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+rendercv_settings:
+  date: '2025-05-26'
+  render_command:
+  bold_keywords: []
