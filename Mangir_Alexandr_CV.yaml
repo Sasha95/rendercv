@@ -81,13 +81,16 @@ cv:
         summary: 'Built investment program platform based on arbitrage profits using currency corridors. \n\n*Technologies: React, Redux, redux-thunk, react-router-dom*'
     skills:
       - label: Web
-        details: React, Next.js, HTML5, CSS3, CSS Modules, SCSS, jsPlumb, Module Federation, Single-SPA, react-router-dom, Plate.js, next-auth, Clerk, Webpack, Vite, Storybook, socket.io
+        details: React, Next.js, HTML5, CSS3, CSS Modules, SCSS, jsPlumb, Module Federation, Single-SPA, react-router-dom, Plate.js, next-auth, Clerk, Webpack, Vite, Storybook, socket.io, Node.js, NX
       - label: Mobile
         details: React Native, Wix React Native Navigation, React Navigation, Firebase
       - label: Tools
-        details: RTK query, redux-thunk, Redux Toolkit, typescript-fsa, react-hook-form, Zod, i18next, stripe, docker, sentry, infisical, rudderstack
+        details: RTK query, redux-thunk, Redux Toolkit, typescript-fsa, react-hook-form, Zod, i18next, stripe, docker, sentry, infisical, rudderstack, React Query, Jest, React Testing Library, Selenium
+      - label: Architecture & Patterns
+        details: Micro-services, Micro-frontends, Clean Architecture
       - label: UI Frameworks
         details: Material-UI, Ant Design, Bootstrap, Radix, Shadcn, Ariakit, Tailwind, Styled Components
+      
     education:
       - institution: Shevchenko Transnistria State University
         area: Applied Mathematics and Computer Science
