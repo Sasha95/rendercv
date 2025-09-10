@@ -12,7 +12,7 @@ cv:
       username: Sasha95
   sections:
     professional_summary:
-      - Senior Frontend & Mobile Developer with 8+ years of experience building scalable web applications and mobile apps using React, Nextjs and React Native. Specialized in creating high-performance platforms for enterprise solutions with extensive experience in micro-frontend architectures using Module Federation and Single-SPA.
+      - Senior Frontend & Mobile Developer with 8+ years of experience building scalable web applications and mobile apps using React, Nextjs and React Native. Specialized in creating high-performance platforms for enterprise solutions with extensive experience in micro-frontend architectures using Module Federation and Single-SPA. Strong background in Machine Learning and Computer Vision, with hands-on experience developing AI-powered systems, including photo recognition, facial feature matching, object detection, and automated quality control systems.
     experience:
       - company: Flowqe
         position: Senior Software Engineer
@@ -35,7 +35,7 @@ cv:
         - Developed AI-powered editorial workflow platform for journalists
         - Developed mobile application for news consumption with offline capabilities
       - company: Tetracode
-        position: Lead Front-end Developer
+        position: Lead Front-end Developer/Machine Learning Engineer
         location: Freelance
         date: 
         start_date: 2023-01
@@ -44,6 +44,7 @@ cv:
           - Developed load board aggregator with real-time notifications
           - Developed pet insurance platform with micro-frontend architecture
           - Developed AI-powered educational platform for children with offline capabilities
+          - Built photo recognition system for Kidzify with facial feature matching algorithms and ML pipeline for real-time image processing, including character personalization based on predefined datasets
       - company: Wisent Group
         position: Lead Front-end Developer
         start_date: 2020-12
@@ -52,7 +53,7 @@ cv:
         highlights:
           - Developed comprehensive LMS and marketing automation platform with visual funnel builder
       - company: DexTechnology
-        position: Middle Front-end Developer
+        position: Middle Front-end Developer/Machine Learning Engineer
         location: Tiraspol, Moldova
         date: 
         start_date: 2019-04
@@ -61,6 +62,10 @@ cv:
           - Developed tour operator platform with different difficulty levels
           - Developed brand clothing store mobile app
           - Developed scooter rental mobile app
+          - Developed computer vision system for automated quality control
+          - Implemented ML models for defect detection in manufacturing processes
+          - Created data pipelines for processing and analyzing production line imagery
+          - Built real-time object detection and tracking systems
       - company: iHelp
         date: 
         start_date: 2017-12
@@ -68,6 +73,12 @@ cv:
         position: Front-end Developer
         location: Tiraspol, Moldova
     projects:
+      - name: 'Code Quality Analyzer'
+        summary: 'Developed ML-based system for automated code quality assessment of GitHub pull requests. Implemented analysis of cyclomatic complexity, cognitive complexity, code churn metrics (added/deleted/modified lines), and other code quality parameters. Built predictive model to evaluate overall code quality score based on historical data.\n\n*Technologies: Python, numpy, scikit-learn, pandas, matplotlib, seaborn*'
+      - name: 'AI Gym Assistant'
+        summary: 'Developed AI-powered gym monitoring system for exercise form tracking and safety. Implemented real-time person detection and tracking, exercise recognition, and incorrect form detection. System includes video recording for trainer review and feedback.\n\n*Technologies: Python, OpenCV, PyTorch, YOLO, WebRTC*'
+      - name: 'Vape Bottle Quality Control System'
+        summary: 'Developed computer vision system for automated quality control of vape bottles on production line. Implemented real-time detection of manufacturing defects including misaligned labels and incorrectly sealed bottle caps using object detection and image processing.\n\n*Technologies: OpenCV, YOLOv3, Python, NumPy*'
       - name: '[Autoblogger](https://autoblogger.otherweb.com/)'
         summary: 'Developed automated blogging tool with integrations to WordPress API, Webflow, Wix, Zapier and other CMS platforms.\n\n*Technologies: Next.js, TypeScript, CSS Modules, SCSS, Plate.js, react-hook-form, Zod, Clerk*'
       - name: '[PressHub](https://app.presshub.ai/)'
@@ -75,7 +86,7 @@ cv:
       - name: '[Otherweb](https://otherweb.com)'
         summary: 'Developed high-quality news platform without noise, junk, or clickbait with Next.js, TypeScript, and SSR optimization. Built React Native mobile apps for [iOS](https://apps.apple.com/us/app/otherweb-junk-free-news/id6443798894) and [Android](https://play.google.com/store/apps/details?id=com.otherweb&hl=en). \n\n*Technologies: Next.js, TypeScript, CSS Modules, SCSS, Material-UI, react-hook-form, Zod, react-query, next-auth, React Native, Redux Toolkit, Wix React Native Navigation*'
       - name: '\n\nKidzify'
-        summary: 'AI-based platform revolutionizing how children learn soft skills by making them the heroes of their educational cartoon episodes.\n\n*Technologies: React, CSS Modules, SCSS, Material-UI, TypeScript, Three.js, Redux*'
+        summary: 'AI-based platform revolutionizing how children learn soft skills by making them the heroes of their educational cartoon episodes. Developed photo recognition system for converting photos into cartoon versions and matching facial features with a predefined dataset. Built ML pipeline and Flask server for image processing.\n\n*Technologies: React, CSS Modules, SCSS, Material-UI, TypeScript, Three.js, Redux, PyTorch, Pillow, Scipy, OpenCV, TensorFlow, Pandas, Flask*'
       - name: 'Dispatchly'
         summary: 'Developed load board aggregator with real-time notifications. \n\n*Technologies: React, TypeScript, CSS Modules, SCSS, Redux, react-router-dom, socket.io*'
       - name: '[SPOKK](https://spokk.ua/)'
@@ -99,6 +110,8 @@ cv:
         details: Micro-services, Micro-frontends, Clean Architecture
       - label: UI Frameworks
         details: Material-UI, Ant Design, Bootstrap, Radix, Shadcn, Ariakit, Tailwind, Styled Components
+      - label: Machine Learning & Computer Vision
+        details: PyTorch, TensorFlow, OpenCV, scikit-learn, NumPy, Pandas, YOLO, Pillow, SciPy, Matplotlib, Seaborn, Flask
       
     education:
       - institution: Shevchenko Transnistria State University
