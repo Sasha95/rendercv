@@ -14,11 +14,21 @@ cv:
     professional_summary:
       - Senior Frontend & Mobile Developer with 8+ years of experience building scalable web applications and mobile apps using React, Nextjs and React Native. Specialized in creating high-performance platforms for enterprise solutions with extensive experience in micro-frontend architectures using Module Federation and Single-SPA.
     experience:
+      - company: maib
+        position: Senior Software Engineer
+        location: Chisinau, Moldova
+        start_date: 2025-10
+        end_date: present
+        highlights:
+          - Developed micro-frontends for banks
+          - Developed a design system for a bank
+          - Developed a card module for legal entities
+          - Mentored and assisted colleagues
       - company: Flowqe
         position: Senior Software Engineer
         location: Chisinau, Moldova
         start_date: 2025-07
-        end_date: present
+        end_date: 2025-09
         highlights:
           - Built a web-based CAD platform for electrical engineering using Next.js, Three.js, and React
           - Developed interactive diagram editor with drag-and-drop, real-time calculations, and DXF import/export
