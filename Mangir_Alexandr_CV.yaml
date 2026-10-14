@@ -10,129 +10,118 @@ cv:
       username: alexmag
     - network: GitHub
       username: Sasha95
+    - network: Telegram
+      username: css_prime
   sections:
     professional_summary:
-      - Senior Frontend & Mobile Developer with 8+ years of experience building scalable web applications and mobile apps using React, Nextjs and React Native. Specialized in creating high-performance platforms for enterprise solutions with extensive experience in micro-frontend architectures using Module Federation and Single-SPA.
+      - '**Senior Frontend & Mobile Engineer** with 8+ years of experience building scalable web and mobile products with React, Next.js, React Native and TypeScript. Specialized in high-performance platforms for enterprise and product companies: micro-frontend architectures (Module Federation, Single-SPA), design systems and UI kits, rich editors and real-time interfaces. Currently building AI-powered banking features with LLMs, RAG and intelligent workflows, and using AI coding agents with spec-driven development to ship faster.'
     experience:
       - company: maib
         position: Senior Software Engineer
         location: Chisinau, Moldova
         start_date: 2025-10
         end_date: present
+        summary: Largest commercial bank in Moldova
         highlights:
-          - Developed micro-frontends for banks
-          - Developed a design system for a bank
-          - Developed a card module for legal entities
-          - Mentored and assisted colleagues
+          - Develop micro-frontends for the bank's digital banking products (React, Next.js, TypeScript, Module Federation)
+          - 'Built the bank''s design system: a shared UI component library used across product teams'
+          - Developed the card management module for legal entities (corporate clients)
+          - 'Build AI-powered features with LLMs: RAG pipelines over internal knowledge and intelligent workflows that automate routine processes'
+          - Introduced AI-assisted, spec-driven development with coding agents (OpenSpec, Spec Kit, MCP)
+          - Mentor colleagues, run code reviews and help shape front-end architecture (FSD, DDD)
       - company: Flowqe
         position: Senior Software Engineer
         location: Chisinau, Moldova
         start_date: 2025-07
         end_date: 2025-09
         highlights:
-          - Built a web-based CAD platform for electrical engineering using Next.js, Three.js, and React
-          - Developed interactive diagram editor with drag-and-drop, real-time calculations, and DXF import/export
-          - Created symbol libraries, multi-language UI, and tools for project management and automated calculations
+          - Built a web-based CAD platform for electrical engineering with Next.js, React, TypeScript and Three.js
+          - Developed an interactive diagram editor with drag-and-drop, real-time electrical calculations and DXF import/export
+          - Created symbol libraries, a multi-language UI (i18next) and tools for project management and automated calculations
       - company: Otherweb
         position: Lead Front-end/Mobile Developer
         location: Chisinau, Moldova
         start_date: 2023-07
         end_date: 2025-06
         highlights:
-        - Developed comprehensive UI kit and design system for company-wide projects
-        - Developed news aggregation platform with advanced content management features
-        - Created automated blogging tools with multiple CMS integrations
-        - Developed AI-powered editorial workflow platform for journalists
-        - Developed mobile application for news consumption with offline capabilities
+          - 'Led front-end and mobile development of the Otherweb ecosystem (the company was later acquired by SAI Technologies)'
+          - '**Otherweb**: junk-free news platform that uses AI to filter clickbait, misinformation and propaganda; Next.js web app with SSR and React Native apps for iOS and Android with offline reading, audio playback and a NewsGPT assistant'
+          - '**PressHub**: AI-powered editorial workflow platform for journalists (Next.js App Router, Plate.js editor, Clerk, Sentry)'
+          - '**Autoblogger**: automated blogging tool publishing to WordPress, Webflow, Wix, Zapier and other CMS platforms'
+          - Built a company-wide UI kit and design system
       - company: Tetracode
         position: Lead Front-end Developer
-        location: Freelance
-        date: 
+        location: Freelance, Remote
         start_date: 2023-01
         end_date: 2023-07
         highlights:
-          - Developed load board aggregator with real-time notifications
-          - Developed pet insurance platform with micro-frontend architecture
-          - Developed AI-powered educational platform for children with offline capabilities
+          - '**[Raters](https://ratersapp.com/)**: social network for movie lovers; Next.js web app, Telegram Mini App, Web3 login (Solana, Internet Computer), x402 paid API for AI agents'
+          - '**SPOKK**: online pet insurance in Ukraine built with a micro-frontend architecture (Module Federation)'
+          - '**Kidzify**: AI-based platform that teaches children soft skills by making them heroes of educational cartoon episodes (Three.js, offline mode)'
+          - '**Dispatchly**: load board aggregator with real-time notifications (socket.io)'
       - company: Wisent Group
         position: Lead Front-end Developer
+        location: Chisinau, Moldova
         start_date: 2020-12
         end_date: 2023-07
-        location: Chisinau, Moldova
         highlights:
-          - Developed comprehensive LMS and marketing automation platform with visual funnel builder
+          - '**[Everact](https://app.everact.io/)**: all-in-one platform for creating and selling online courses'
+          - Built the LMS (courses, curriculum, quizzes, student management) and marketing automation with a visual drag-and-drop funnel builder (jsPlumb)
+          - Implemented payments and billing with Stripe; micro-frontend architecture with Webpack Module Federation
       - company: DexTechnology
         position: Middle Front-end Developer
         location: Tiraspol, Moldova
-        date: 
         start_date: 2019-04
         end_date: 2020-12
         highlights:
-          - Developed tour operator platform with different difficulty levels
-          - Developed brand clothing store mobile app
-          - Developed scooter rental mobile app
+          - '**[LUXXY](https://dex-it.ru/cases/luxxy)**: React Native marketplace for authentic branded goods; 100+ screens, multi-step deal tracking and dispute escalation'
+          - '**[Radio Kartina](https://dex-it.ru/cases/radio-kartina)**: radio messenger app with live streaming, DJ chat, offline playlists and CarPlay / Android Auto; 100k+ daily listeners'
+          - '**[Nokia](https://dex-it.ru/cases/nokia)**: web portals for suppliers, sales managers and wholesale buyers of telecom equipment'
+          - '**Samocat Sharing**: scooter-sharing mobile app; tour operator platform'
       - company: iHelp
-        date: 
-        start_date: 2017-12
-        end_date: 2019-04
         position: Front-end Developer
         location: Tiraspol, Moldova
-    projects:
-      - name: '[Autoblogger](https://autoblogger.otherweb.com/)'
-        summary: 'Developed automated blogging tool with integrations to WordPress API, Webflow, Wix, Zapier and other CMS platforms.\n\n*Technologies: Next.js, TypeScript, CSS Modules, SCSS, Plate.js, react-hook-form, Zod, Clerk*'
-      - name: '[PressHub](https://app.presshub.ai/)'
-        summary: 'Created AI-powered editorial workflow platform.\n\n*Technologies: React, TypeScript, Plate.js, react-query, CSS Modules, SCSS, Material-UI, Clerk*'
-      - name: '[Otherweb](https://otherweb.com)'
-        summary: 'Developed high-quality news platform without noise, junk, or clickbait with Next.js, TypeScript, and SSR optimization. Built React Native mobile apps for [iOS](https://apps.apple.com/us/app/otherweb-junk-free-news/id6443798894) and [Android](https://play.google.com/store/apps/details?id=com.otherweb&hl=en). \n\n*Technologies: Next.js, TypeScript, CSS Modules, SCSS, Material-UI, react-hook-form, Zod, react-query, next-auth, React Native, Redux Toolkit, Wix React Native Navigation*'
-      - name: '\n\nKidzify'
-        summary: 'AI-based platform revolutionizing how children learn soft skills by making them the heroes of their educational cartoon episodes.\n\n*Technologies: React, CSS Modules, SCSS, Material-UI, TypeScript, Three.js, Redux*'
-      - name: 'Dispatchly'
-        summary: 'Developed load board aggregator with real-time notifications. \n\n*Technologies: React, TypeScript, CSS Modules, SCSS, Redux, react-router-dom, socket.io*'
-      - name: '[SPOKK](https://spokk.ua/)'
-        summary: 'Developed pet insurance platform using micro-frontend architecture.\n\n*Technologies: React, TypeScript, react-query, react-hook-form, CSS Modules, SCSS, Module Federation, react-router-dom*'
-      - name: '[Everact](https://app.everact.io/)'
-        summary: 'Developed comprehensive LMS and marketing automation platform with visual funnel builder.\n\n*Technologies: React, Redux, redux-thunk, TypeScript, typescript-fsa, Module Federation, jsPlumb, react-hook-form, CSS Modules, SCSS, react-router-dom*'
-      - name: '[Company Website](https://dextechnology.com/)'
-        summary: 'Developed company website. \n\n*Technologies: React, Redux, TypeScript*'
-      - name: 'Samocat Sharing'
-        summary: 'Developed scooter rental mobile app. \n\n*Technologies: React Native, React Navigation, Redux, redux-thunk*'
-      - name: 'Corridor'
-        summary: 'Built investment program platform based on arbitrage profits using currency corridors. \n\n*Technologies: React, Redux, redux-thunk, react-router-dom*'
+        start_date: 2017-12
+        end_date: 2019-04
     skills:
       - label: Web
-        details: React, Next.js, HTML5, CSS3, CSS Modules, SCSS, jsPlumb, Module Federation, Single-SPA, react-router-dom, Plate.js, next-auth, Clerk, Webpack, Vite, Storybook, socket.io, Node.js, NX
+        details: React, Next.js, TypeScript, HTML5, CSS3, CSS Modules, SCSS, Module Federation, Single-SPA, Three.js, jsPlumb, Plate.js, react-router-dom, next-auth, Clerk, Webpack, Vite, Storybook, socket.io, Node.js, NestJS, NX
       - label: Mobile
-        details: React Native, Wix React Native Navigation, React Navigation, Firebase
+        details: React Native, Wix React Native Navigation, React Navigation, Firebase, Telegram Mini Apps
+      - label: AI
+        details: LLMs, RAG, embeddings & vector search, AI agents, MCP, prompt engineering, intelligent workflow automation, Claude Code, spec-driven development (OpenSpec, Spec Kit)
       - label: Tools
-        details: RTK query, redux-thunk, Redux Toolkit, typescript-fsa, react-hook-form, Zod, i18next, stripe, docker, sentry, infisical, rudderstack, React Query, Jest, React Testing Library, Selenium
-      - label: Architecture & Patterns
-        details: Micro-services, Micro-frontends, Clean Architecture
+        details: Redux Toolkit, RTK Query, TanStack Query, redux-thunk, typescript-fsa, react-hook-form, Zod, i18next, Orval, Stripe, Docker, Sentry, RudderStack, Jest, React Testing Library, Vitest, Playwright, Git
+      - label: Architecture
+        details: Micro-frontends, FSD, DDD, Clean Architecture, Design Systems
       - label: UI Frameworks
-        details: Material-UI, Ant Design, Bootstrap, Radix, Shadcn, Ariakit, Tailwind, Styled Components
-      
+        details: Material-UI, Ant Design, Radix, shadcn/ui, Ariakit, Tailwind, Styled Components
     education:
       - institution: Shevchenko Transnistria State University
         area: Applied Mathematics and Computer Science
         degree: MSc
-        date:
         start_date: 2017-01
         end_date: 2019-12
         location: Tiraspol, Moldova
-        summary:
         highlights:
           - 'GPA: 5/5'
           - 'Academic Scholarship Recipient'
       - institution: Shevchenko Transnistria State University
         area: Applied Mathematics
         degree: BS
-        date:
         start_date: 2013-09
         end_date: 2017-06
         location: Tiraspol, Moldova
-        summary:
         highlights:
           - 'GPA: 4.89/5'
           - 'Academic Scholarship Recipient'
+    languages:
+      - label: English
+        details: Upper-Intermediate (B2)
+      - label: Russian
+        details: Native
+      - label: Ukrainian
+        details: Intermediate (B1)
 design:
   theme: classic
   page:
@@ -276,6 +265,6 @@ locale:
     - November
     - December
 rendercv_settings:
-  date: '2025-05-26'
+  date: '2026-10-14'
   render_command:
   bold_keywords: []
